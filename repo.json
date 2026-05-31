@@ -1,0 +1,9 @@
+{
+  "name": "TurkSkystream",
+  "packageName": "com.byayzen",
+  "description": "SkyStream eklentileri",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ByAyzen/Turk-Skystream-Reposu/main/dist/plugins.json"
+  ]
+}

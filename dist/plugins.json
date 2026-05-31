@@ -1,0 +1,20 @@
+[
+  {
+    "packageName": "com.byayzen.sinewix",
+    "name": "Sinewix",
+    "version": 1,
+    "baseUrl": "https://ydfvfdizipanel.ru",
+    "description": "Sinewix",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/ByAyzen/Turk-Skystream-Reposu/main/dist/com.byayzen.sinewix.sky"
+  }
+]
