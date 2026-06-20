@@ -1,5 +1,40 @@
 [
   {
+    "packageName": "com.byayzen.dizipal",
+    "name": "Dizipal",
+    "version": 1,
+    "baseUrl": "https://dizipal.im",
+    "description": "Filmmodu",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/ByAyzen/Ayzen-Skystream/main/dist/com.byayzen.dizipal.sky"
+  },
+  {
+    "packageName": "com.byayzen.filmmodu",
+    "name": "filmmodu",
+    "version": 1,
+    "baseUrl": "https://filmmodu.one",
+    "description": "Filmmodu",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Movie"
+    ],
+    "url": "https://raw.githubusercontent.com/ByAyzen/Ayzen-Skystream/main/dist/com.byayzen.filmmodu.filmmodu.sky"
+  },
+  {
     "packageName": "com.byayzen.sinewix",
     "name": "Sinewix",
     "version": 1,
@@ -15,6 +50,6 @@
       "Movie",
       "Series"
     ],
-    "url": "https://raw.githubusercontent.com/ByAyzen/Turk-Skystream-Reposu/main/dist/com.byayzen.sinewix.sky"
+    "url": "https://raw.githubusercontent.com/ByAyzen/Ayzen-Skystream/main/dist/com.byayzen.sinewix.sky"
   }
 ]
